@@ -4,7 +4,7 @@
 <br>
 [點擊下載自動化模組](https://modrinth.com/mod/automodpack)
 <br><br><br>
-可以略以下步驟:
+可以略以下步驟(下面介紹是舊的):
 <br><br><br>
 [下載介紹影片(點擊觀看)](https://youtu.be/-zyi6l17m2s)<br><br>
  1.像是麥塊之類的模組與光影之類會配好放這裡。但不會有地圖與其他模組，僅基礎模組!
